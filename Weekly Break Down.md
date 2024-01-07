@@ -1,6 +1,6 @@
 # 30 Days of Dart
 
-##Week 1: Dart Basics
+## Week 1 - Week 2: Dart Basics
 - **Days 1-3:** Introduction to Dart Syntax
   - Variables, Data Types, and Basic Operators.
   - Conditional Statements (if, else, switch).
@@ -25,7 +25,7 @@
   - Lists, Sets, and Maps.
   - Common Methods for Collections.
 
-## Week 2: Advanced Dart Concepts
+## Week 3 - Week 4: Advanced Dart Concepts
 - **Days 16-18:** Exception Handling
   - Understanding Dart's Exception Handling.
   - Try, Catch, and Finally Blocks.
