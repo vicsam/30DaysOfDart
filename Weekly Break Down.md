@@ -1,15 +1,15 @@
 # 30 Days of Dart
 
 ## Week 1 - Week 2: Dart Basics
-- **Days 1-3:** Introduction to Dart Syntax
-  - Variables, Data Types, and Basic Operators.
-  - Conditional Statements (if, else, switch).
-  - Looping Structures (for, while, do-while).
+- [x] **Days 1-3:** Introduction to Dart Syntax
+  - [x] Variables, Data Types, and Basic Operators.
+  - [x] Conditional Statements (if, else, switch).
+  - [x] Looping Structures (for, while, do-while).
 
-- **Days 4-6:** Functions and Methods
-  - Declaring and Calling Functions.
-  - Function Parameters and Return Types.
-  - Understanding Scope.
+- [x] **Days 4-6:** Functions and Methods
+  - [x] Declaring and Calling Functions.
+  - [x] Function Parameters and Return Types.
+  - [x] Understanding Scope.
 
 - **Days 7-9:** Object-Oriented Programming (OOP) Basics
   - Classes and Objects.
